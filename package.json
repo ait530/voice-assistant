@@ -1,0 +1,21 @@
+{
+  "name": "voice-assistant",
+  "version": "1.0.0",
+  "description": "Takes voice commands that redirects the user to the appropriate tag page.",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ait530/voice-assistant.git"
+  },
+  "author": "aaron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ait530/voice-assistant/issues"
+  },
+  "homepage": "https://github.com/ait530/voice-assistant#readme"
+}
